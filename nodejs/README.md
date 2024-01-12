@@ -1,5 +1,3 @@
 # Nodejs
 
-## Non blocking I/O
-
-https://scottmoss.notion.site/Non-blocking-I-O-73e9169fe771463c97deebfe34433fb9
+https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c
