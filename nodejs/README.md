@@ -1,3 +1,3 @@
-# Nodejs
+# Node.js and Express.js - Full Course
 
-https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c
+https://youtu.be/Oe421EPjeBE
